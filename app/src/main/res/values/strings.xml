@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassChat</string>
+    <string name="classroom_offline_notice">Offline Classroom Network Active</string>
+    <string name="class_group_name">Class Group</string>
+    <string name="class_group_desc">Broadcast announcements and questions to everyone in the room</string>
+    <string name="online_students">Students Nearby</string>
+    <string name="no_students_found">Searching for nearby students in classroom…</string>
+    <string name="type_a_message">Type a message…</string>
+    <string name="service_notification_title">ClassChat Active</string>
+    <string name="service_notification_desc">Maintaining local classroom Bluetooth communication</string>
+</resources>

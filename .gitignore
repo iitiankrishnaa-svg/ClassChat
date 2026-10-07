@@ -1,0 +1,55 @@
+# Android build outputs
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/.gitignore
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+app/.cxx/
+
+# Gradle cache & wrapper locks
+.gradle/
+
+# Signing credentials and keystores — NEVER commit these
+*.jks
+*.keystore
+release.keystore
+keystore.properties
+signing.properties
+
+# User-specific local settings
+local.properties
+
+# Generated APKs and bundles — use GitHub Releases instead
+*.apk
+*.aab
+*.ap_
+
+# ProGuard mapping files (generated)
+app/proguard/
+
+# IntelliJ / Android Studio IDE
+*.iml
+.idea/
+out/
+
+# OS X
+.DS_Store
+**/.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Crash logs
+hs_err_pid*
